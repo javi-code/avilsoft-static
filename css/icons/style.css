@@ -1,0 +1,125 @@
+@font-face {
+  font-family: 'avil-icon';
+  src:  url('fonts/avil-icon.eot?wl5zl9');
+  src:  url('fonts/avil-icon.eot?wl5zl9#iefix') format('embedded-opentype'),
+    url('fonts/avil-icon.ttf?wl5zl9') format('truetype'),
+    url('fonts/avil-icon.woff?wl5zl9') format('woff'),
+    url('fonts/avil-icon.svg?wl5zl9#avil-icon') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
+
+[class^="avil-icon-"], [class*=" avil-icon-"] {
+  /* use !important to prevent issues with browser extensions that change fonts */
+  font-family: 'avil-icon' !important;
+  speak: none;
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  text-transform: none;
+  line-height: 1;
+
+  /* Better Font Rendering =========== */
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.avil-icon-location:before {
+  content: "\e918";
+}
+.avil-icon-messenger-fill:before {
+  content: "\e919";
+}
+.avil-icon-phone:before {
+  content: "\e91a";
+}
+.avil-icon-whatsapp-fill:before {
+  content: "\e91b";
+}
+.avil-icon-alert-triangle:before {
+  content: "\e90f";
+}
+.avil-icon-check-square:before {
+  content: "\e910";
+}
+.avil-icon-chevrons-up:before {
+  content: "\e911";
+}
+.avil-icon-send:before {
+  content: "\e912";
+}
+.avil-icon-x-square:before {
+  content: "\e913";
+}
+.avil-icon-close-menu:before {
+  content: "\e914";
+}
+.avil-icon-menu-lines:before {
+  content: "\e915";
+}
+.avil-icon-menu-square:before {
+  content: "\e916";
+}
+.avil-icon-mensseger:before {
+  content: "\e909";
+}
+.avil-icon-whatsapp:before {
+  content: "\e90a";
+}
+.avil-icon-email-1:before {
+  content: "\e904";
+}
+.avil-icon-facebook-1:before {
+  content: "\e905";
+}
+.avil-icon-instagram-1:before {
+  content: "\e906";
+}
+.avil-icon-linkedin-1:before {
+  content: "\e907";
+}
+.avil-icon-twitter-1:before {
+  content: "\e908";
+}
+.avil-icon-web-desin:before {
+  content: "\e900";
+}
+.avil-icon-web-dev:before {
+  content: "\e901";
+}
+.avil-icon-web-seo:before {
+  content: "\e902";
+}
+.avil-icon-web-ux-iu:before {
+  content: "\e903";
+}
+.avil-icon-linkedin:before {
+  content: "\e917";
+}
+.avil-icon-facebook:before {
+  content: "\e90b";
+}
+.avil-icon-instagram:before {
+  content: "\e90c";
+}
+.avil-icon-twitter:before {
+  content: "\e90d";
+}
+.avil-icon-youtube:before {
+  content: "\e90e";
+}
+.avil-icon-puzzle:before {
+  content: "\e026";
+}
+.avil-icon-gears:before {
+  content: "\e02b";
+}
+.avil-icon-linegraph:before {
+  content: "\e039";
+}
+.avil-icon-email:before {
+  content: "\ea86";
+}
+.avil-icon-ctrl:before {
+  content: "\ea50";
+}
